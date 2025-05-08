@@ -1,1 +1,1 @@
-.
+python -m uvicorn src.langchain_project.api.main:app --reload
